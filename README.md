@@ -1,4 +1,4 @@
-# duration_of_courses ![multimedia](https://github.com/DarielEGM/duration_of_courses/assets/123778387/7e656484-acf3-4760-be92-a7c1d3337268)
+# duration_of_courses![multimedia](https://github.com/DarielEGM/duration_of_courses/assets/123778387/7e656484-acf3-4760-be92-a7c1d3337268)
 
 This project was built with Python.
 
